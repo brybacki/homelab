@@ -8,6 +8,7 @@ Software:
 - pve
 - pihole
 - dns?
+- localsend
 
 Hardware:
 - EliteDesk G3 Mini (low power consumptions)
