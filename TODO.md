@@ -9,6 +9,8 @@ Software:
 - pihole
 - dns?
 - localsend
+- clover efi boot
+
 
 Hardware:
 - EliteDesk G3 Mini (low power consumptions)
