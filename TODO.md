@@ -10,7 +10,10 @@ Software:
 - dns?
 - localsend
 - clover efi boot
-
+- 
+Web Page:
+- https://astro.build/themes/?categories%5B%5D=portfolio
+  
 
 Hardware:
 - EliteDesk G3 Mini (low power consumptions)
