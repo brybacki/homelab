@@ -11,6 +11,7 @@ Software:
 - localsend
 - clover efi boot
 - https://maas.io/
+- Immich - photos
   
 Web Page:
 - https://astro.build/themes/?categories%5B%5D=portfolio
