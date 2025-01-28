@@ -12,6 +12,8 @@ Software:
 - clover efi boot
 - https://maas.io/
 - Immich - photos
+- zrok - An open source sharing solution built on OpenZiti, the zero trust networking platform. Available as SaaS or self-hosted.
+
   
 Web Page:
 - https://astro.build/themes/?categories%5B%5D=portfolio
