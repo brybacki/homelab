@@ -4,6 +4,8 @@
 # MacOs
 - Cyberduck - nice ftp/sftp client
 - FTP Mounter Lite - even better sftp integration
+- PhotoSync
+- easy+move+resize
 - 
 # Windows
 
