@@ -6,6 +6,8 @@
 - FTP Mounter Lite - even better sftp integration
 - PhotoSync
 - easy+move+resize
+- rectangle
+- karabiner
 - 
 # Windows
 
@@ -24,3 +26,4 @@ Windows 11 basic setup:
 - Click the “Themes” option.
 - Scroll down to the bottom and click the “Desktop icon settings” option.
 ```
+
