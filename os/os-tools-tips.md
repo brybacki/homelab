@@ -11,6 +11,7 @@
 - k3s?
 - bitwarden
 - unison/grsync?
+- fd | entr (find and monitor, to execute, e.g. fd --extension .java | entr kubectl copy {} pod:/)
 
 # MacOs
 - Cyberduck - nice ftp/sftp client
@@ -37,5 +38,6 @@ Windows 11 basic setup:
 - Click the “Themes” option.
 - Scroll down to the bottom and click the “Desktop icon settings” option.
 ```
+
 
 
