@@ -1,5 +1,16 @@
 
 # Linux
+- devpod
+- mise?
+- chezmoi?
+- zsh - ohmyzsh (or starship)
+- exa (ls)
+- distrobox
+- netboot-xyz
+- proxmox?
+- k3s?
+- bitwarden
+- unison/grsync?
 
 # MacOs
 - Cyberduck - nice ftp/sftp client
@@ -26,4 +37,5 @@ Windows 11 basic setup:
 - Click the “Themes” option.
 - Scroll down to the bottom and click the “Desktop icon settings” option.
 ```
+
 
