@@ -1,5 +1,7 @@
 
 # Linux
+- tailscale (simplifies internet/local network access)
+- director.io (easily manage docker images with nice console)
 - devpod
 - mise?
 - chezmoi?
@@ -38,6 +40,7 @@ Windows 11 basic setup:
 - Click the “Themes” option.
 - Scroll down to the bottom and click the “Desktop icon settings” option.
 ```
+
 
 
 
