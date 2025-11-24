@@ -13,8 +13,16 @@ Software:
 - https://maas.io/
 - Immich - photos
 - zrok - An open source sharing solution built on OpenZiti, the zero trust networking platform. Available as SaaS or self-hosted.
+- PhotoSync
 
   
+File management:
+- pydio
+- seafile
+
+Multiplatform:
+- winboat?
+
 Web Page:
 - https://astro.build/themes/?categories%5B%5D=portfolio
   
