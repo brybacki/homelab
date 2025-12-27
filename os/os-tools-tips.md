@@ -22,6 +22,8 @@
 - easy+move+resize
 - rectangle
 - karabiner
+- remote desktop to linux: https://dev.to/emile1636/rdp-error-code-0x207-on-mac-for-ubuntu-24-d6d
+
 - 
 # Windows
 
@@ -40,6 +42,7 @@ Windows 11 basic setup:
 - Click the “Themes” option.
 - Scroll down to the bottom and click the “Desktop icon settings” option.
 ```
+
 
 
 
