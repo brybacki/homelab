@@ -7,6 +7,7 @@
 
 
 # Linux
+- Ventoy
 - tailscale (simplifies internet/local network access)
 - director.io (easily manage docker images with nice console)
 - devpod
