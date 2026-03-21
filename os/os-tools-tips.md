@@ -1,3 +1,10 @@
+# HOMELAB
+- immich
+- portainer
+- pvx - proxmox
+- netboot-xyz
+
+
 
 # Linux
 - tailscale (simplifies internet/local network access)
@@ -6,6 +13,8 @@
 - mise?
 - chezmoi?
 - zsh - ohmyzsh (or starship)
+- fzf - fuzzy finder
+- television - new fuzzy finder with flows!
 - exa (ls)
 - distrobox
 - netboot-xyz
@@ -14,6 +23,8 @@
 - bitwarden
 - unison/grsync?
 - fd | entr (find and monitor, to execute, e.g. fd --extension .java | entr kubectl copy {} pod:/)
+- glow - render MD in console
+- lazygit 
 
 # MacOs
 - Cyberduck - nice ftp/sftp client
